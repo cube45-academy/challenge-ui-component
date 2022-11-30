@@ -26,5 +26,5 @@ Here are a few examples of what you can use to create the component (this is not
 - vue.js + quasar
 - vue.js + vuetify
 - vue.js alone, with custom CSS
-- vanilla JS and vanilla CSS
+- web components
 - WPF
